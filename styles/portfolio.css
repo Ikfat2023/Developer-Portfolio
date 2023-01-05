@@ -228,6 +228,18 @@ color: #757575
     margin-top: 50px;
     text-align: center;
 }
+.btn-extra{
+    color: white;
+    background: #FD6E0A;
+    border-radius: 5px;
+    height: 64px;
+    margin-right: 30px;
+    border: 0;
+    padding: 18px 35px;
+    margin-bottom: 130px;
+    font-weight: 600;
+    font-size: 20px;
+}
 /* contact styles */
 .contact{
     display: flex;
@@ -237,6 +249,7 @@ color: #757575
 }
 .contact-title{
     text-align: left;
+    margin-bottom: 30px;
 
 }
 .contact input[type="text"], input[type="email"], textarea{
